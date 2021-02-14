@@ -1,0 +1,54 @@
+.serif{
+    font-family:'Gabriola','Goudy Old Style','Lucida Handwriting','Bradley Hand', 'Lucida Bright','Brush Script MT';
+}
+.fontIg{
+    font-weight: 1000;
+    font-size: 50px;
+}
+.font-size12{
+    font-size:12px
+}
+.brandIg{
+    font-size: 30px;
+    font-weight: 700;
+    padding-left: 7em;
+    
+}
+.nav-card{
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+.fontAwesome{
+     font-family: 'Helvetica', FontAwesome, sans-serif;
+     font-size: 12px;
+}
+.padL{
+    padding-left: 15em;
+}
+.padR{
+    margin-right: 10em;
+}
+.padL-R{
+    margin-left: 15em;
+    margin-right: 15em;
+}
+.profileImg{
+    border-radius: 50%;
+}
+.userFont{
+    font-size:30px;
+    font-weight: 100;
+}
+.editBtn{
+    border-width: 1px;
+    font-weight: 600;
+}
+.padAll{
+    margin-left: 25em;
+    margin-right: 25em;
+    margin-top: 5em;
+    /* padding-top: 5em; */
+    padding: 2em;
+    /* text-align: center; */
+}
